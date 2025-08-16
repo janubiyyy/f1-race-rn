@@ -10,7 +10,7 @@ Proyek ini merupakan implementasi simulasi balapan F1 menggunakan data nyata dar
 
 🚀 Cara Menjalankan
 1️⃣ Clone Repository
-git clone https://github.com/username/f1-race.git
+git clone [https://github.com/username/f1-race.git](https://github.com/janubiyyy/f1-race-rn.git)
 cd f1-race
 
 2️⃣ Menjalankan Project Web (Next.js)
